@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<!-- <parameter name="URL" value= "example.com" -:> test case requires parameter -->
+	<!-- dependence = "test case name"-->
+	<!-- timeout = "test case name"-->
+	<!-- Dataprovider -->
+	<!-- test listener Listeners possess the ability to “listen” to a certain event. 
+	Often used for customizing reports and logs, it serves as an interface that can modify system behavior. -->
+	<!-- One uses chrome to open the Browserstack homepage where the other uses the firefox browser 
+to sign up on the Browserstack platform. In this code snippet, we are executing both these methods in parallel, 
+by setting up the thread count in the TestNG XML file as 2. Refer to the below snippet and TestNG XML file:-->
+	<!-- For example, in case one has three methods, with thread count as two, then during execution, 
+two threads shall start in parallel with the corresponding methods. -->
+
+	<listeners>
+		<listener class-name="project2.project2.Listen"></listener>
+	</listeners>
+
+	<parameter name="browser" value="Chrome"/>
+	<test thread-count="5" name="ChromeTest">
+		<groups>
+			<run>
+				<include name="TC01" />
+				<!--	
+				<include name="TC02" />
+				<include name="TC03" />
+				<include name="TC04" />
+				<include name="TC05" />
+				<include name="TC06" />
+				<include name="TC07" />
+				<include name="TC08" />
+				<include name="TC08_1" />
+				<include name="TC09" />
+				<include name="TC10" />
+				<include name="TC12" />
+				<include name="TC13" />
+				<include name="TC14" />
+				<include name="TC15" />
+				<include name="TC16" />
+				<include name="TC17" />
+				<include name="TC18" />
+				<include name="TC19" />
+				<include name="TC20" />
+				method
+					exclude name="API.*" = Starting API names are excluded
+				<packages>
+					<package name="">
+				<packages>
+			-->
+
+			</run>
+		</groups>
+		<classes>
+			
+			<class name="project2.project2.Main" />
+		</classes>
+		
+	</test> <!-- Test -->
+	
+</suite> <!-- Suite -->

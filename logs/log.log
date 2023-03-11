@@ -1,0 +1,160 @@
+2023-02-20 17:51:05 INFO  ex:25 - It works
+2023-02-20 17:51:46 INFO  ex:25 - It works
+2023-02-20 17:51:51 INFO  ex:33 - Open browserstack
+2023-02-20 17:51:51 INFO  ex:35 - Maximize window size
+2023-02-20 17:51:51 INFO  ex:37 - enter username
+2023-02-20 17:51:51 INFO  ex:39 - enter password
+2023-02-20 17:51:51 INFO  ex:41 - click on login
+2023-02-20 18:04:05 INFO  Main:103 - window maximinied
+2023-02-20 18:04:05 INFO  Main:108 - Maximize window size
+2023-02-20 18:04:05 INFO  Main:109 - Information
+2023-02-21 20:44:46 INFO  Main:103 - window maximinied
+2023-02-21 20:44:46 INFO  Main:108 - Maximize window size
+2023-02-21 20:44:46 INFO  Main:109 - Information
+2023-02-25 19:45:51 INFO  Main:104 - window maximinied
+2023-02-25 19:45:52 INFO  Main:109 - Maximize window size
+2023-02-25 19:45:52 INFO  Main:110 - Information
+2023-02-25 19:47:30 INFO  Main:104 - window maximinied
+2023-02-25 19:47:31 INFO  Main:109 - Maximize window size
+2023-02-25 19:47:31 INFO  Main:110 - Information
+2023-02-25 19:47:35 INFO  Main:104 - window maximinied
+2023-02-25 19:47:35 INFO  Main:109 - Maximize window size
+2023-02-25 19:47:35 INFO  Main:110 - Information
+2023-03-04 17:54:26 INFO  Main:104 - window maximinied
+2023-03-04 17:54:26 INFO  Main:109 - Maximize window size
+2023-03-04 17:54:26 INFO  Main:110 - Information
+2023-03-04 17:56:59 INFO  Main:104 - window maximinied
+2023-03-04 17:56:59 INFO  Main:109 - Maximize window size
+2023-03-04 17:56:59 INFO  Main:110 - Information
+2023-03-04 19:11:08 INFO  Main:105 - window maximinied
+2023-03-04 19:11:08 INFO  Main:110 - Maximize window size
+2023-03-04 19:11:08 INFO  Main:111 - Information
+2023-03-04 19:12:45 INFO  Main:105 - window maximinied
+2023-03-04 19:12:46 INFO  Main:110 - Maximize window size
+2023-03-04 19:12:46 INFO  Main:111 - Information
+2023-03-04 19:22:02 INFO  Main:46 - window maximinied
+2023-03-04 19:22:02 INFO  Main:51 - Maximize window size
+2023-03-04 19:22:02 INFO  Main:52 - Information
+2023-03-04 19:22:05 INFO  Main:46 - window maximinied
+2023-03-04 19:22:05 INFO  Main:51 - Maximize window size
+2023-03-04 19:22:05 INFO  Main:52 - Information
+2023-03-04 19:22:07 INFO  Main:46 - window maximinied
+2023-03-04 19:22:07 INFO  Main:51 - Maximize window size
+2023-03-04 19:22:07 INFO  Main:52 - Information
+2023-03-04 19:40:06 INFO  Main:46 - window maximinied
+2023-03-04 19:40:06 INFO  Main:51 - Maximize window size
+2023-03-04 19:40:06 INFO  Main:52 - Information
+2023-03-04 19:40:09 INFO  Main:46 - window maximinied
+2023-03-04 19:40:09 INFO  Main:51 - Maximize window size
+2023-03-04 19:40:09 INFO  Main:52 - Information
+2023-03-04 19:40:11 INFO  Main:46 - window maximinied
+2023-03-04 19:40:11 INFO  Main:51 - Maximize window size
+2023-03-04 19:40:11 INFO  Main:52 - Information
+2023-03-04 19:40:14 INFO  Main:46 - window maximinied
+2023-03-04 19:40:14 INFO  Main:51 - Maximize window size
+2023-03-04 19:40:14 INFO  Main:52 - Information
+2023-03-04 19:42:09 INFO  Main:46 - window maximinied
+2023-03-04 19:42:09 INFO  Main:51 - Maximize window size
+2023-03-04 19:42:09 INFO  Main:52 - Information
+2023-03-04 19:42:14 INFO  Main:46 - window maximinied
+2023-03-04 19:42:14 INFO  Main:51 - Maximize window size
+2023-03-04 19:42:14 INFO  Main:52 - Information
+2023-03-04 19:50:36 INFO  Main:46 - window maximinied
+2023-03-04 19:50:36 INFO  Main:51 - Maximize window size
+2023-03-04 19:50:36 INFO  Main:52 - Information
+2023-03-04 19:50:41 INFO  Main:46 - window maximinied
+2023-03-04 19:50:41 INFO  Main:51 - Maximize window size
+2023-03-04 19:50:41 INFO  Main:52 - Information
+2023-03-04 19:50:50 INFO  Main:46 - window maximinied
+2023-03-04 19:50:50 INFO  Main:51 - Maximize window size
+2023-03-04 19:50:50 INFO  Main:52 - Information
+2023-03-04 20:03:07 INFO  Main:107 - window maximinied
+2023-03-04 20:03:08 INFO  Main:112 - Maximize window size
+2023-03-04 20:03:08 INFO  Main:113 - Information
+2023-03-04 20:27:13 INFO  Main:107 - window maximinied
+2023-03-04 20:27:13 INFO  Main:112 - Maximize window size
+2023-03-04 20:27:13 INFO  Main:113 - Information
+2023-03-04 20:32:35 INFO  Main:107 - window maximinied
+2023-03-04 20:32:35 INFO  Main:112 - Maximize window size
+2023-03-04 20:32:35 INFO  Main:113 - Information
+2023-03-04 20:33:05 INFO  Main:46 - window maximinied
+2023-03-04 20:33:05 INFO  Main:51 - Maximize window size
+2023-03-04 20:33:05 INFO  Main:52 - Information
+2023-03-04 20:33:09 INFO  Main:46 - window maximinied
+2023-03-04 20:33:09 INFO  Main:51 - Maximize window size
+2023-03-04 20:33:09 INFO  Main:52 - Information
+2023-03-04 20:53:40 INFO  Main:107 - window maximinied
+2023-03-04 20:53:40 INFO  Main:112 - Maximize window size
+2023-03-04 20:53:40 INFO  Main:113 - Information
+2023-03-04 20:54:14 INFO  Main:107 - window maximinied
+2023-03-04 20:54:14 INFO  Main:112 - Maximize window size
+2023-03-04 20:54:14 INFO  Main:113 - Information
+2023-03-04 20:56:25 INFO  Main:107 - window maximinied
+2023-03-04 20:56:25 INFO  Main:112 - Maximize window size
+2023-03-04 20:56:25 INFO  Main:113 - Information
+2023-03-04 20:58:01 INFO  Main:107 - window maximinied
+2023-03-04 20:58:01 INFO  Main:112 - Maximize window size
+2023-03-04 20:58:01 INFO  Main:113 - Information
+2023-03-08 21:01:46 INFO  Main:107 - window maximinied
+2023-03-08 21:01:46 INFO  Main:112 - Maximize window size
+2023-03-08 21:01:46 INFO  Main:113 - Information
+2023-03-08 21:02:16 INFO  Main:107 - window maximinied
+2023-03-08 21:02:17 INFO  Main:112 - Maximize window size
+2023-03-08 21:02:17 INFO  Main:113 - Information
+2023-03-08 21:03:33 INFO  Main:46 - window maximinied
+2023-03-08 21:03:33 INFO  Main:51 - Maximize window size
+2023-03-08 21:03:33 INFO  Main:52 - Information
+2023-03-08 21:03:36 INFO  Main:46 - window maximinied
+2023-03-08 21:03:36 INFO  Main:51 - Maximize window size
+2023-03-08 21:03:36 INFO  Main:52 - Information
+2023-03-08 21:04:22 INFO  Main:107 - window maximinied
+2023-03-08 21:04:22 INFO  Main:112 - Maximize window size
+2023-03-08 21:04:22 INFO  Main:113 - Information
+2023-03-08 21:04:36 INFO  Main:107 - window maximinied
+2023-03-08 21:04:36 INFO  Main:112 - Maximize window size
+2023-03-08 21:04:36 INFO  Main:113 - Information
+2023-03-08 21:04:55 INFO  Main:107 - window maximinied
+2023-03-08 21:04:55 INFO  Main:112 - Maximize window size
+2023-03-08 21:04:55 INFO  Main:113 - Information
+2023-03-08 21:05:32 INFO  Main:107 - window maximinied
+2023-03-08 21:05:32 INFO  Main:112 - Maximize window size
+2023-03-08 21:05:32 INFO  Main:113 - Information
+2023-03-08 21:05:47 INFO  Main:107 - window maximinied
+2023-03-08 21:05:47 INFO  Main:112 - Maximize window size
+2023-03-08 21:05:47 INFO  Main:113 - Information
+2023-03-08 21:07:45 INFO  Main:107 - window maximinied
+2023-03-08 21:07:45 INFO  Main:112 - Maximize window size
+2023-03-08 21:07:45 INFO  Main:113 - Information
+2023-03-08 21:09:27 INFO  Main:107 - window maximinied
+2023-03-08 21:09:27 INFO  Main:112 - Maximize window size
+2023-03-08 21:09:27 INFO  Main:113 - Information
+2023-03-08 21:12:00 INFO  Main:107 - window maximinied
+2023-03-08 21:12:00 INFO  Main:112 - Maximize window size
+2023-03-08 21:12:00 INFO  Main:113 - Information
+2023-03-09 20:26:24 INFO  Main:44 - window maximinied
+2023-03-09 20:26:24 INFO  Main:46 - Maximize window size
+2023-03-09 20:26:24 INFO  Main:47 - Information
+2023-03-09 21:23:52 INFO  Main:46 - window maximinied
+2023-03-09 21:23:52 INFO  Main:48 - Maximize window size
+2023-03-09 21:23:52 INFO  Main:49 - Information
+2023-03-11 09:24:01 INFO  Main:51 - window maximinied
+2023-03-11 09:24:01 INFO  Main:53 - Maximize window size
+2023-03-11 09:24:01 INFO  Main:54 - Information
+2023-03-11 09:50:54 INFO  Main:51 - window maximinied
+2023-03-11 09:50:54 INFO  Main:53 - Maximize window size
+2023-03-11 09:50:54 INFO  Main:54 - Information
+2023-03-11 09:52:43 INFO  Main:51 - window maximinied
+2023-03-11 09:52:43 INFO  Main:53 - Maximize window size
+2023-03-11 09:52:43 INFO  Main:54 - Information
+2023-03-11 09:53:31 INFO  Main:51 - window maximinied
+2023-03-11 09:53:31 INFO  Main:53 - Maximize window size
+2023-03-11 09:53:31 INFO  Main:54 - Information
+2023-03-11 09:54:18 INFO  Main:51 - window maximinied
+2023-03-11 09:54:18 INFO  Main:53 - Maximize window size
+2023-03-11 09:54:18 INFO  Main:54 - Information
+2023-03-11 12:39:17 INFO  Main:57 - window maximinied
+2023-03-11 12:39:17 INFO  Main:59 - Maximize window size
+2023-03-11 12:39:17 INFO  Main:60 - Information
+2023-03-11 13:14:09 INFO  Main:57 - window maximinied
+2023-03-11 13:14:09 INFO  Main:59 - Maximize window size
+2023-03-11 13:14:09 INFO  Main:60 - Information
