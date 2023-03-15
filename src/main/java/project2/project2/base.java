@@ -1,6 +1,7 @@
 package project2.project2;
 
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
@@ -9,6 +10,8 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
@@ -37,8 +40,8 @@ public class base {
 		// TODO Auto-generated constructor stub
 	}
 	
-	@BeforeTest(alwaysRun = true)
 	@Parameters("browser")
+	@BeforeTest(alwaysRun = true)
 	public void setupApplication(String browser) {
 		if(browser.equalsIgnoreCase("chrome")){
 			System.out.println("Chrome Driver is already defined.");
@@ -53,7 +56,11 @@ public class base {
 		// http://admin:admin@website address.com/ this will be complete without asking
 		// authrization.
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
-		driver = new ChromeDriver();
+		ChromeOptions options = new ChromeOptions();
+		options.addArguments("--remote-allow-origins=*");
+        
+        driver = new ChromeDriver(options);
+//		driver = new ChromeDriver();
 		log.info("window maximinied");
 		// BaseInit setup = new BaseInit(driver);
 		log.info("Maximize window size");
@@ -101,5 +108,14 @@ public class base {
 		driver.quit();
 		Reporter.log("=====Browser Session End=====", true);
 		
+	}
+	
+	@DataProvider(name = "data-provider")
+	public Object[][] dpMethod() {
+		return new Object[][] {
+				{ "standard_user", "secret_sauce" } /*
+													 * , {"locked_out_user", "secret_sauce"} , {"problem_user",
+													 * "secret_sauce"}, {"performance_glitch_user", "secret_sauce"}
+													 */ };
 	}
 }

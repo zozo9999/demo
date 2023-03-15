@@ -33,5 +33,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="C:/Users/Junghwan Shin/OneDrive/바탕 화면/잡종/Selenium frameworks/log4j-1.2.17.zip"/>
 	<classpathentry kind="lib" path="C:/Users/Junghwan Shin/OneDrive/바탕 화면/잡종/Selenium frameworks/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Junghwan Shin/OneDrive/바탕 화면/잡종/Selenium frameworks/selenium-http-jdk-client-4.8.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

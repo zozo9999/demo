@@ -23,6 +23,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.FindBy;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
@@ -91,7 +92,7 @@ public class Main extends base {
 	}
 //	@BeforeTest(alwaysRun = true)
 //	@Parameters("browser")
-//	public void bfTest(/*String browser*/) throws IOException {
+//	public void bfTest(String browser) throws IOException {
 //		if(browser.equalsIgnoreCase("chrome")){
 //			System.out.println("Chrome Driver is already defined.");
 //		}
@@ -104,6 +105,10 @@ public class Main extends base {
 //		System.out.println("run without wwwwwwwww");
 //		driver = new ChromeDriver();
 //		// chromeoption - headless = not opening browser.
+//		ChromeOptions options = new ChromeOptions();
+//		options.addArguments("--remote-allow-origins=*");
+//        
+//        driver = new ChromeDriver(options);
 //		log.info("window maximinied");
 //		// BaseInit setup = new BaseInit(driver);
 //		String url = "https://www.saucedemo.com/";
